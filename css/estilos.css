@@ -1,0 +1,36 @@
+#logo{
+    width: 100px;
+}
+
+#carrusel img{
+    filter: brightness(0.5);
+}
+
+#btn_comprar_ticket{
+    color: #25a342 !important;
+}
+
+#texto_bs_as p{
+    margin-left: 2%;
+}
+
+#btn_grande_enviar{
+    background-color: #98ca50;
+    color: white;
+
+}
+
+ footer nav{
+    background-color: #1d4358;
+
+}
+
+footer ul{
+    justify-content: space-between;
+    width: 100%;
+    
+}
+
+
+
+
